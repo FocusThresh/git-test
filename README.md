@@ -4,7 +4,7 @@
 ...
 ..
 .
--bullet
--list
+- bullet
+- list
 
 
